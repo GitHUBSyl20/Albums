@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {Component} from 'react';
 import { Text, View, Image, Linking } from 'react-native';
 import Card from './Card'
 import CardSection from './CardSection'
