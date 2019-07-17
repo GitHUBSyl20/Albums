@@ -4,6 +4,8 @@ import Card from './Card'
 import CardSection from './CardSection'
 import Button from './Button'
 
+//wip
+
 const AlbumDetail = ({ album }) => {
     const { 
         title, 
